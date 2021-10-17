@@ -5,6 +5,7 @@ int main() {
   scanf("%lf", &first);
   printf("Enter second number: ");
   scanf("%lf", &second);
+//My First lab class Testing ----->>>>
 
   // value of first is assigned to temp
   temp = first;
